@@ -115,7 +115,7 @@
 
 ---
 
-## 💭 Favorite Quote
+##  Quote
 
 <p align="center">
 
