@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aswin </h1>
+<h1 align="center">Hi 👋, I'm Aswin Arunagiri</h1>
 
 <p align="center">
 <strong>B.Tech Information Technology Student</strong> •
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;B.Tech+Information+Technology+Student;Frontend+Web+Developer;Learning+Full+Stack+Development;Building+Projects+Every+Day+🚀" alt="Typing SVG"/>
 </p>
+
 
 ---
 
