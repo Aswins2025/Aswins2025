@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 
 <h3 align="center">
-🚀 B.Tech IT Student | Web Developer | Future Full Stack Developer 🇮🇳
+🚀 B.Tech IT Student | Web Developer | Future Full Stack Developer |
 </h3>
 
 <p align="center">
