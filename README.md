@@ -1,58 +1,83 @@
-<h1 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aswin Arunagiri</h1>
+
+<h3 align="center">
+🚀 B.Tech IT Student | Web Developer | Future Full Stack Developer 🇮🇳
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student;Web+Developer;Learning+HTML+CSS+JavaScript;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;B.Tech+Information+Technology+Student;Frontend+Web+Developer;Learning+Full+Stack+Development;HTML+%7C+CSS+%7C+JavaScript;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 Second-Year B.Tech Information Technology Student
-- 🏫 Dhanalakshmi Srinivasan College of Engineering and Technology
-- 🌱 Currently learning HTML, CSS & JavaScript
-- 💻 Interested in Frontend & Full Stack Development
-- 🔭 Looking for Internship Opportunities
-- 📫 Email: **aswinarunagiri1@gmail.com**
+🎓 Second-Year B.Tech Information Technology Student
+
+🏫 Dhanalakshmi Srinivasan College of Engineering and Technology
+
+💻 Passionate about Web Development
+
+🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+🎯 Goal
+
+Become a Professional Full Stack Developer.
+
+📫 Email
+
+**aswinarunagiri1@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aswin-s-785921380/" target="_blank">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aswin-s-785921380/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Aswins2025" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Aswins2025">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:aswinarunagiri1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📂 Current Projects
+# 🚀 Currently Working On
 
-- 🌐 Personal Portfolio Website
-- 🎨 Responsive Landing Pages
-- 📚 Learning JavaScript Projects
+✨ Personal Portfolio Website
+
+🌐 Responsive Landing Pages
+
+📚 JavaScript Mini Projects
+
+🎯 Improving Frontend Development Skills
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -64,7 +89,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -74,7 +99,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -84,28 +109,46 @@
 
 ---
 
-## 🧰 Tools I Use
+# 🏆 GitHub Trophies
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aswins2025&theme=tokyonight&no-frame=true&margin-w=12"/>
 
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🛠️ Tools I Use
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aswins2025&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows"/>
 
 </p>
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Aswins2025&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
+
+---
+
+# 💡 Quote
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</h3>
