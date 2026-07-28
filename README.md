@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;B.Tech+Information+Technology+Student;Frontend+Web+Developer;Learning+Full+Stack+Development;Building+Projects+Every+Day+🚀" alt="Typing SVG"/>
+font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;B.Tech+Information+Technology+Student;Frontend+Web+Developer;Learning+Full+Stack+Development;Building+Projects+Every+Day+🚀" alt="Typing SVG"/>
 </p>
 
 ---
