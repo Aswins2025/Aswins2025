@@ -2,7 +2,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="./assets/github-header-banner.png" width="100%" alt="ASWIN S - Full Stack Developer"/>
+  <img src="github-header-banner.png" width="100%" alt="ASWIN S - Full Stack Developer"/>
 </p>
 
 <h1 align="center">ASWIN S</h1>
