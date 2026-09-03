@@ -1,108 +1,119 @@
-<h1 align="center">Aswin</h1>
-<h3 align="center">Aspiring Developer & UI/UX Practitioner | Actively Seeking Internship Opportunities | B.Tech IT Student</h3>
+<h1 align="center">ASWIN S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;UI+UX+Design+Practitioner;B.Tech+IT+Student;Actively+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <strong>Full Stack Developer</strong>
+  <br>
+  Second-Year B.Tech Information Technology Student
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aswins2025">
+    <img src="https://img.shields.io/badge/GitHub-Aswins2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/aswin-s-785921380/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aswin%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:aswinsrinivasan1007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am a dedicated and aspiring Developer with a strong focus on crafting clean, responsive, and user-centric interfaces. I am currently expanding my expertise in UI/UX design to effectively bridge the gap between visual aesthetics and functional performance. I excel at translating complex design concepts into seamless, interactive web experiences and am eager to apply my skills in a professional setting.
+I’m a Full Stack Developer and second-year B.Tech Information Technology
+student passionate about building modern, scalable, and user-focused web
+applications.
 
-- **Education**: B.Tech in Information Technology, Dhanalakshmi Srinivasan College of Engineering and Technology (Expected Graduation: 2027)
-- **Core Competencies**: HTML5, CSS3, JavaScript (ES6+), and responsive web design
-- **Design Skills**: UI/UX principles, Figma, user flow mapping, and wireframing
-- **Career Objective**: Actively seeking frontend development or product design internship opportunities to contribute to real-world projects and accelerate professional growth.
-- **Contact**: aswinsrinivasan1007@gmail.com
+I enjoy turning ideas into functional products while continuously learning
+and exploring new technologies.
 
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aswin-s-785921380/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Aswins2025" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:aswinsrinivasan1007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+Currently, I’m focused on strengthening my full-stack development skills,
+building practical projects, and improving my understanding of modern
+web technologies.
 
 ---
 
-## Technical Stack & Tools
+## Tech Stack
 
-### Frontend Development
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Skills" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-### Design & Prototyping
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Skills" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
-### Tools & Version Control
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Personal Portfolio** | A modern, fully responsive portfolio website designed to showcase technical projects and professional skills. | HTML, CSS, JavaScript |
-| **Landing Page Design** | A clean, conversion-focused UI featuring interactive elements and micro-interactions, prototyped in Figma. | HTML, CSS, Figma |
-| **Weather Application** | A real-time weather data dashboard featuring a minimal, user-friendly interface and REST API integration. (In Progress) | HTML, CSS, JavaScript, API |
-| **UI/UX Case Study** | A comprehensive design thinking project documenting user research, user flows, and high-fidelity wireframes. | Figma |
+### Portfolio
 
-> View all repositories and source code on my [GitHub Profile](https://github.com/Aswins2025?tab=repositories).
+A personal developer portfolio designed to showcase my skills, projects,
+technical interests, and development journey.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
-## GitHub Analytics
+### Automated Security Assessment Platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswins2025&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswins2025&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Top Languages" />
-</p>
+A web-based security assessment platform designed to analyze applications,
+identify potential security vulnerabilities, classify findings by severity,
+and generate assessment reports.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aswins2025&theme=github_dark&hide_border=true" alt="Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswins2025&theme=github-dark" alt="Activity Graph" />
-</p>
+**Technologies:** Python, JavaScript, HTML, CSS, Node.js
 
 ---
 
-## Current Focus & Professional Development
+## Currently Learning
 
-- **React.js**: Developing scalable, component-based user interfaces.
-- **Figma**: Advancing skills in high-fidelity prototyping and design systems.
-- **JavaScript (ES6+)**: Deepening understanding of asynchronous programming and complex application logic.
-- **Responsive Design**: Implementing rigorous mobile-first development methodologies.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+I’m currently expanding my knowledge of React and MongoDB while working
+towards building complete end-to-end web applications.
 
 ---
 
-## Profile Metrics
+## Development Focus
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aswins2025&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <b>"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs</b>
-  <br />
-  Thank you for visiting my profile. I welcome professional connections, mentorship, and collaborative internship opportunities.
-</p>
+```text
+Full Stack Development
+Web Application Development
+Backend Development
+Database Integration
+API Development
+Problem Solving
+Continuous Learning
