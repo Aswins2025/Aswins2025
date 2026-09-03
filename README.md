@@ -1,20 +1,27 @@
+
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="./assets/github-header-banner.png" width="100%" alt="ASWIN S - Full Stack Developer"/>
+</p>
+
 <h1 align="center">ASWIN S</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong>
-  <br>
+  <br/>
   Second-Year B.Tech Information Technology Student
 </p>
 
 <p align="center">
   <a href="https://github.com/Aswins2025">
-    <img src="https://img.shields.io/badge/GitHub-Aswins2025-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/aswin-s-785921380/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aswin%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:aswinsrinivasan1007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
@@ -22,54 +29,53 @@
 
 ## About Me
 
-I’m a Full Stack Developer and second-year B.Tech Information Technology
-student passionate about building modern, scalable, and user-focused web
-applications.
+I’m a Full Stack Developer and second-year B.Tech Information Technology student passionate about building modern, scalable, and user-focused web applications.
 
-I enjoy turning ideas into functional products while continuously learning
-and exploring new technologies.
+I enjoy transforming ideas into functional digital products while continuously improving my development skills and exploring new technologies.
 
-Currently, I’m focused on strengthening my full-stack development skills,
-building practical projects, and improving my understanding of modern
-web technologies.
+- Currently developing full-stack web applications
+- Interested in frontend and backend development
+- Focused on writing clean and maintainable code
+- Continuously learning modern development technologies
+- Interested in building practical and real-world projects
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-flat&logo=react&logoColor=black"/>
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-flat&logo=node.js&logoColor=white"/>
 </p>
 
 ### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-flat&logo=mongodb&logoColor=white"/>
 </p>
 
-### Tools
+### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -78,42 +84,50 @@ web technologies.
 
 ### Portfolio
 
-A personal developer portfolio designed to showcase my skills, projects,
-technical interests, and development journey.
+A personal developer portfolio designed to showcase my skills, projects, technologies, and development journey.
 
-**Technologies:** HTML, CSS, JavaScript
+**Focus:** Frontend Development, Responsive Design, User Experience
 
 ---
 
 ### Automated Security Assessment Platform
 
-A web-based security assessment platform designed to analyze applications,
-identify potential security vulnerabilities, classify findings by severity,
-and generate assessment reports.
+A web-based security assessment platform designed to analyze applications and identify potential security vulnerabilities.
 
-**Technologies:** Python, JavaScript, HTML, CSS, Node.js
+**Focus:** Application Security, Vulnerability Assessment, Security Reporting
 
 ---
 
 ## Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/React-Currently%20Learning-61DAFB?style=for-the-flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-Currently%20Learning-47A248?style=for-the-flat&logo=mongodb&logoColor=white"/>
 </p>
 
-I’m currently expanding my knowledge of React and MongoDB while working
-towards building complete end-to-end web applications.
+I am currently strengthening my knowledge in modern frontend development with React and database development using MongoDB.
 
 ---
 
 ## Development Focus
 
 ```text
-Full Stack Development
-Web Application Development
+Frontend Development
+        |
+        v
+HTML → CSS → JavaScript → React
+        |
+        v
 Backend Development
-Database Integration
-API Development
-Problem Solving
-Continuous Learning
+        |
+        v
+Node.js
+        |
+        v
+Database
+        |
+        v
+MongoDB
+        |
+        v
+Full Stack Applications
